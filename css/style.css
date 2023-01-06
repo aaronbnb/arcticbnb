@@ -1556,3 +1556,16 @@ a:focus {
 .bg-info {
   background-color: #17a2b8!important;
 }
+
+#finger {
+  height: 30px;
+  float: left;
+}
+
+#cookie {
+  max-height: 200px;
+}
+
+.cookie-text {
+  line-height: 16px;
+}
